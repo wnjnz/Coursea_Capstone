@@ -1,2 +1,3 @@
 # Coursea_Capstone
- capstone project for applied data science 
+
+Thhis repo is used for the capstone project for applied data science on Coursera.
